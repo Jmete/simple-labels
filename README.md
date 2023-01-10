@@ -1,6 +1,8 @@
 # simple-labels
 Simple Dataset Labeler that uses ipython widgets to create an easy way to label datasets.
 
+![Simple-Labels](simple-labels.png)
+
 ## Steps:
 - Download the notebook & open it.
 - Make sure the required libraries are installed
